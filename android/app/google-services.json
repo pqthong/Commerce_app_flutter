@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308627445496",
+    "project_id": "personal-apps-5f1ac",
+    "storage_bucket": "personal-apps-5f1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308627445496:android:dc464c5c65702fbb3c8d0d",
+        "android_client_info": {
+          "package_name": "com.example.the_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308627445496-edge79c29815k8ivnrc00tvkg35999hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlxk2n7as0FYl4fOwp6djH64z0EL8T6D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308627445496-edge79c29815k8ivnrc00tvkg35999hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
